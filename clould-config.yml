@@ -1,0 +1,11 @@
+hostname: rancheros_node
+
+rancher: 
+  network:
+    dns:
+      nameservers:
+      - 1.1.1.1
+      - 8.8.4.4
+
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsqPpeBIQfaxa6J2ivBCxW1DqSfIoWvluA4/wvT8jAuIdNXc4VgWW0kGO/9FtBq7WhmmmdF9Y74h5eQKlP9IBMzbxSEsszj+6F+PuTyaJ6hVa/XtkRWPc5FQ4Q3B0FQWPFFWMfgAv0iHf9STNr4ekJm60FvPoxeeQpTpEHLpx3cMiXwL2fO/ijB9d9lbeg/Et1lphoT7fv41n1CYtodMzMjqGN5kjbGFi46XYtgQmp2v7X1milEkaRvWwQS5cGVS8sLJ5/4H8zaxwdxNmMLdIaAlU68Pz5xHeihDFuBigdec7K8R29PJ9ADnpbhia+G3OssPNk9tE60qUBw3W4BKV7Vb+5AAYgIqD9h+AGvKVaH3drnXkCPa+exrMAAT1xpwdo805HtrED/Sjxr99SLDQZeog1AiBJhewhVwT6kspwO0E69o3ZzUJkGHyzxwDTDRQD1GpoYc1GcpykLyagUUohRb+etHi0NW5nXro3q65Rwt4i/SrI3yG3r6laNvwkDK8= jason@MacBook-Pro.local
